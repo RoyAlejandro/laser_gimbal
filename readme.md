@@ -10,6 +10,8 @@ The gimbal consists of three joints, driven by three servomotors. The test consi
 
 ![Setup](mediafiles/Gimbal_setup.PNG)
 
+https://user-images.githubusercontent.com/35667878/164947993-7c29dcc0-7939-4081-8c56-b06998fb7530.mp4
+
 ### Block Diagram and Pinout ###
 
 The servomotors, whose angle is controlled by a PWM signal, and the IMU, which communicates via SPI, are connected to the Discovery board. The laser is kept on during the entire test.
@@ -80,8 +82,3 @@ Shoulder is the motor at the base, acting on the Z-axis (yaw).
 Elbow is the next motor in the chain, acting on the Y-axis (pitch).
 
 Wrist is the motor acting on the block containing the laser and the IMU, it acts on the X-axis (roll).
-
-https://user-images.githubusercontent.com/35667878/164947993-7c29dcc0-7939-4081-8c56-b06998fb7530.mp4
-
-
-
