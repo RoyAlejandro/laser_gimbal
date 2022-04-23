@@ -81,7 +81,7 @@ Elbow is the next motor in the chain, acting on the Y-axis (pitch).
 
 Wrist is the motor acting on the block containing the laser and the IMU, it acts on the X-axis (roll).
 
-
+https://user-images.githubusercontent.com/35667878/164947993-7c29dcc0-7939-4081-8c56-b06998fb7530.mp4
 
 
 
