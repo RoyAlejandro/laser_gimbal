@@ -1,6 +1,6 @@
 ## Gimbal based on the ST Microelectronics Discovery board ##
 
-### The problem ###
+### Scope ###
 
 The design consists of a control firmware for a positioning system based on three small servomotors (SG92R), an inertial measurement unit (IMU GY-91), a laser module (SYD-1230) and a control board based on the ARM Cortex-M4 processor (STM32F4 Discovery).
 
